@@ -12,7 +12,7 @@ console.log(validate_Positive_Number(3));
 console.log(validate_Positive_Number(-5));
 
 
-Sample Output:
+**Sample Output:**
 
 3
 "error"
